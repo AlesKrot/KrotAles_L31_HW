@@ -91,6 +91,8 @@
                     </view>
                     <connections>
                         <outlet property="adressBarTextField" destination="bZ8-qa-ABL" id="5jO-GZ-Ke0"/>
+                        <outlet property="backButton" destination="CoZ-5l-3fh" id="E95-eH-Z8T"/>
+                        <outlet property="forwardButton" destination="l1o-gU-3Ry" id="sOa-cE-6bT"/>
                         <outlet property="webView" destination="cBw-hK-FGb" id="yqd-3S-B6i"/>
                     </connections>
                 </viewController>
